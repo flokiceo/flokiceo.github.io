@@ -2655,7 +2655,7 @@
     "/assets/background.494e96eb.svg",
     "/assets/background-footer-layer.4525ac96.svg"
   ],
-  "assets/app.533dabe9.js-unocss-hash.css": [
+  "assets/app.c0d3bfd4.js-unocss-hash.css": [
     "/assets/background-footer.2c73697e.svg",
     "/assets/logo-body.d8b310b5.avif",
     "/assets/logo-body.f02efa5d.webp",
@@ -2688,108 +2688,134 @@
     "/assets/background-footer-layer.4525ac96.svg"
   ],
   "src/assets/images/token-bg.svg": [
-    "/assets/FeatureSection.4b351a9f.js",
+    "/assets/FeatureSection.8e49da7d.js",
     "/assets/token-bg.ae3ac01b.svg",
     "/assets/roadmap.9c8cc33b.png",
     "/assets/roadmap.06b29f01.png",
     "/assets/token.1c0c218a.png"
   ],
   "src/assets/images/token.png?placeholder": [
-    "/assets/FeatureSection.4b351a9f.js",
+    "/assets/FeatureSection.8e49da7d.js",
     "/assets/token-bg.ae3ac01b.svg",
     "/assets/roadmap.9c8cc33b.png",
     "/assets/roadmap.06b29f01.png",
     "/assets/token.1c0c218a.png"
   ],
   "src/assets/images/token.png": [
-    "/assets/FeatureSection.4b351a9f.js",
+    "/assets/FeatureSection.8e49da7d.js",
     "/assets/token-bg.ae3ac01b.svg",
     "/assets/roadmap.9c8cc33b.png",
     "/assets/roadmap.06b29f01.png",
     "/assets/token.1c0c218a.png"
   ],
   "src/components/TokenImage.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/FeatureSection.4b351a9f.js",
+    "/assets/FeatureSection.8e49da7d.js",
     "/assets/token-bg.ae3ac01b.svg",
     "/assets/roadmap.9c8cc33b.png",
     "/assets/roadmap.06b29f01.png",
     "/assets/token.1c0c218a.png"
   ],
   "node_modules/gsap/gsap-core.js": [
-    "/assets/FeatureSection.4b351a9f.js",
+    "/assets/FeatureSection.8e49da7d.js",
     "/assets/token-bg.ae3ac01b.svg",
     "/assets/roadmap.9c8cc33b.png",
     "/assets/roadmap.06b29f01.png",
     "/assets/token.1c0c218a.png"
   ],
   "node_modules/gsap/CSSPlugin.js": [
-    "/assets/FeatureSection.4b351a9f.js",
+    "/assets/FeatureSection.8e49da7d.js",
     "/assets/token-bg.ae3ac01b.svg",
     "/assets/roadmap.9c8cc33b.png",
     "/assets/roadmap.06b29f01.png",
     "/assets/token.1c0c218a.png"
   ],
   "node_modules/gsap/index.js": [
-    "/assets/FeatureSection.4b351a9f.js",
+    "/assets/FeatureSection.8e49da7d.js",
     "/assets/token-bg.ae3ac01b.svg",
     "/assets/roadmap.9c8cc33b.png",
     "/assets/roadmap.06b29f01.png",
     "/assets/token.1c0c218a.png"
   ],
   "node_modules/gsap/Observer.js": [
-    "/assets/FeatureSection.4b351a9f.js",
+    "/assets/FeatureSection.8e49da7d.js",
     "/assets/token-bg.ae3ac01b.svg",
     "/assets/roadmap.9c8cc33b.png",
     "/assets/roadmap.06b29f01.png",
     "/assets/token.1c0c218a.png"
   ],
   "node_modules/gsap/ScrollTrigger.js": [
-    "/assets/FeatureSection.4b351a9f.js",
+    "/assets/FeatureSection.8e49da7d.js",
     "/assets/token-bg.ae3ac01b.svg",
     "/assets/roadmap.9c8cc33b.png",
     "/assets/roadmap.06b29f01.png",
     "/assets/token.1c0c218a.png"
   ],
   "src/sections/FeatureSection.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/FeatureSection.4b351a9f.js",
+    "/assets/FeatureSection.8e49da7d.js",
     "/assets/token-bg.ae3ac01b.svg",
     "/assets/roadmap.9c8cc33b.png",
     "/assets/roadmap.06b29f01.png",
     "/assets/token.1c0c218a.png"
   ],
   "src/sections/FeatureSection.vue": [
-    "/assets/FeatureSection.4b351a9f.js",
+    "/assets/FeatureSection.8e49da7d.js",
     "/assets/token-bg.ae3ac01b.svg",
     "/assets/roadmap.9c8cc33b.png",
     "/assets/roadmap.06b29f01.png",
     "/assets/token.1c0c218a.png"
   ],
   "~icons/ic/baseline-check": [
-    "/assets/RoadmapSection.9e7e257b.js",
+    "/assets/RoadmapSection.c97e125d.js",
     "/assets/roadmap.d31691a6.avif",
     "/assets/roadmap.9cbf0c34.webp",
     "/assets/roadmap.9c8cc33b.png",
-    "/assets/roadmap.06b29f01.png"
+    "/assets/roadmap.06b29f01.png",
+    "/assets/pinksale.c82cb5d9.png",
+    "/assets/dexview.6ac3ba7f.png"
   ],
   "src/assets/images/roadmap.png?web&placeholder": [
-    "/assets/RoadmapSection.9e7e257b.js",
+    "/assets/RoadmapSection.c97e125d.js",
     "/assets/roadmap.d31691a6.avif",
     "/assets/roadmap.9cbf0c34.webp",
     "/assets/roadmap.9c8cc33b.png",
-    "/assets/roadmap.06b29f01.png"
+    "/assets/roadmap.06b29f01.png",
+    "/assets/pinksale.c82cb5d9.png",
+    "/assets/dexview.6ac3ba7f.png"
+  ],
+  "src/assets/images/pinksale.png": [
+    "/assets/RoadmapSection.c97e125d.js",
+    "/assets/roadmap.d31691a6.avif",
+    "/assets/roadmap.9cbf0c34.webp",
+    "/assets/roadmap.9c8cc33b.png",
+    "/assets/roadmap.06b29f01.png",
+    "/assets/pinksale.c82cb5d9.png",
+    "/assets/dexview.6ac3ba7f.png"
+  ],
+  "src/assets/images/dexview.png": [
+    "/assets/RoadmapSection.c97e125d.js",
+    "/assets/roadmap.d31691a6.avif",
+    "/assets/roadmap.9cbf0c34.webp",
+    "/assets/roadmap.9c8cc33b.png",
+    "/assets/roadmap.06b29f01.png",
+    "/assets/pinksale.c82cb5d9.png",
+    "/assets/dexview.6ac3ba7f.png"
   ],
   "src/sections/RoadmapSection.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/RoadmapSection.9e7e257b.js",
+    "/assets/RoadmapSection.c97e125d.js",
     "/assets/roadmap.d31691a6.avif",
     "/assets/roadmap.9cbf0c34.webp",
     "/assets/roadmap.9c8cc33b.png",
-    "/assets/roadmap.06b29f01.png"
+    "/assets/roadmap.06b29f01.png",
+    "/assets/pinksale.c82cb5d9.png",
+    "/assets/dexview.6ac3ba7f.png"
   ],
   "src/sections/RoadmapSection.vue": [
-    "/assets/RoadmapSection.9e7e257b.js",
+    "/assets/RoadmapSection.c97e125d.js",
     "/assets/roadmap.d31691a6.avif",
     "/assets/roadmap.9cbf0c34.webp",
     "/assets/roadmap.9c8cc33b.png",
-    "/assets/roadmap.06b29f01.png"
+    "/assets/roadmap.06b29f01.png",
+    "/assets/pinksale.c82cb5d9.png",
+    "/assets/dexview.6ac3ba7f.png"
   ]
 }
