@@ -2655,7 +2655,7 @@
     "/assets/background.494e96eb.svg",
     "/assets/background-footer-layer.4525ac96.svg"
   ],
-  "assets/app.61c479a5.js-unocss-hash.css": [
+  "assets/app.5c7f5314.js-unocss-hash.css": [
     "/assets/background-footer.2c73697e.svg",
     "/assets/logo-body.d8b310b5.avif",
     "/assets/logo-body.f02efa5d.webp",
@@ -2688,84 +2688,84 @@
     "/assets/background-footer-layer.4525ac96.svg"
   ],
   "src/assets/images/token-bg.svg": [
-    "/assets/FeatureSection.3c8d6761.js",
+    "/assets/FeatureSection.d7695768.js",
     "/assets/token-bg.ae3ac01b.svg",
     "/assets/token.45ee5767.png",
     "/assets/token.cd56711e.png",
     "/assets/token.1c0c218a.png"
   ],
   "src/assets/images/token.png?placeholder": [
-    "/assets/FeatureSection.3c8d6761.js",
+    "/assets/FeatureSection.d7695768.js",
     "/assets/token-bg.ae3ac01b.svg",
     "/assets/token.45ee5767.png",
     "/assets/token.cd56711e.png",
     "/assets/token.1c0c218a.png"
   ],
   "src/assets/images/token.png": [
-    "/assets/FeatureSection.3c8d6761.js",
+    "/assets/FeatureSection.d7695768.js",
     "/assets/token-bg.ae3ac01b.svg",
     "/assets/token.45ee5767.png",
     "/assets/token.cd56711e.png",
     "/assets/token.1c0c218a.png"
   ],
   "src/components/TokenImage.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/FeatureSection.3c8d6761.js",
+    "/assets/FeatureSection.d7695768.js",
     "/assets/token-bg.ae3ac01b.svg",
     "/assets/token.45ee5767.png",
     "/assets/token.cd56711e.png",
     "/assets/token.1c0c218a.png"
   ],
   "node_modules/gsap/gsap-core.js": [
-    "/assets/FeatureSection.3c8d6761.js",
+    "/assets/FeatureSection.d7695768.js",
     "/assets/token-bg.ae3ac01b.svg",
     "/assets/token.45ee5767.png",
     "/assets/token.cd56711e.png",
     "/assets/token.1c0c218a.png"
   ],
   "node_modules/gsap/CSSPlugin.js": [
-    "/assets/FeatureSection.3c8d6761.js",
+    "/assets/FeatureSection.d7695768.js",
     "/assets/token-bg.ae3ac01b.svg",
     "/assets/token.45ee5767.png",
     "/assets/token.cd56711e.png",
     "/assets/token.1c0c218a.png"
   ],
   "node_modules/gsap/index.js": [
-    "/assets/FeatureSection.3c8d6761.js",
+    "/assets/FeatureSection.d7695768.js",
     "/assets/token-bg.ae3ac01b.svg",
     "/assets/token.45ee5767.png",
     "/assets/token.cd56711e.png",
     "/assets/token.1c0c218a.png"
   ],
   "node_modules/gsap/Observer.js": [
-    "/assets/FeatureSection.3c8d6761.js",
+    "/assets/FeatureSection.d7695768.js",
     "/assets/token-bg.ae3ac01b.svg",
     "/assets/token.45ee5767.png",
     "/assets/token.cd56711e.png",
     "/assets/token.1c0c218a.png"
   ],
   "node_modules/gsap/ScrollTrigger.js": [
-    "/assets/FeatureSection.3c8d6761.js",
+    "/assets/FeatureSection.d7695768.js",
     "/assets/token-bg.ae3ac01b.svg",
     "/assets/token.45ee5767.png",
     "/assets/token.cd56711e.png",
     "/assets/token.1c0c218a.png"
   ],
   "src/sections/FeatureSection.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/FeatureSection.3c8d6761.js",
+    "/assets/FeatureSection.d7695768.js",
     "/assets/token-bg.ae3ac01b.svg",
     "/assets/token.45ee5767.png",
     "/assets/token.cd56711e.png",
     "/assets/token.1c0c218a.png"
   ],
   "src/sections/FeatureSection.vue": [
-    "/assets/FeatureSection.3c8d6761.js",
+    "/assets/FeatureSection.d7695768.js",
     "/assets/token-bg.ae3ac01b.svg",
     "/assets/token.45ee5767.png",
     "/assets/token.cd56711e.png",
     "/assets/token.1c0c218a.png"
   ],
   "~icons/ic/baseline-check": [
-    "/assets/RoadmapSection.4f9feed7.js",
+    "/assets/RoadmapSection.6b64b6c3.js",
     "/assets/roadmap.d31691a6.avif",
     "/assets/roadmap.9cbf0c34.webp",
     "/assets/token.45ee5767.png",
@@ -2777,10 +2777,12 @@
     "/assets/bkex.ee4489ac.png",
     "/assets/lbank.dcc2253e.png",
     "/assets/bitmart.1199d571.png",
-    "/assets/mexc.19ebee22.png"
+    "/assets/mexc.19ebee22.png",
+    "/assets/coinsbit.d9b6d863.png",
+    "/assets/cointiger.bb62d7d0.png"
   ],
   "src/assets/images/roadmap.png?web&placeholder": [
-    "/assets/RoadmapSection.4f9feed7.js",
+    "/assets/RoadmapSection.6b64b6c3.js",
     "/assets/roadmap.d31691a6.avif",
     "/assets/roadmap.9cbf0c34.webp",
     "/assets/token.45ee5767.png",
@@ -2792,10 +2794,12 @@
     "/assets/bkex.ee4489ac.png",
     "/assets/lbank.dcc2253e.png",
     "/assets/bitmart.1199d571.png",
-    "/assets/mexc.19ebee22.png"
+    "/assets/mexc.19ebee22.png",
+    "/assets/coinsbit.d9b6d863.png",
+    "/assets/cointiger.bb62d7d0.png"
   ],
   "src/assets/images/pinksale.png": [
-    "/assets/RoadmapSection.4f9feed7.js",
+    "/assets/RoadmapSection.6b64b6c3.js",
     "/assets/roadmap.d31691a6.avif",
     "/assets/roadmap.9cbf0c34.webp",
     "/assets/token.45ee5767.png",
@@ -2807,10 +2811,12 @@
     "/assets/bkex.ee4489ac.png",
     "/assets/lbank.dcc2253e.png",
     "/assets/bitmart.1199d571.png",
-    "/assets/mexc.19ebee22.png"
+    "/assets/mexc.19ebee22.png",
+    "/assets/coinsbit.d9b6d863.png",
+    "/assets/cointiger.bb62d7d0.png"
   ],
   "src/assets/images/dexview.png": [
-    "/assets/RoadmapSection.4f9feed7.js",
+    "/assets/RoadmapSection.6b64b6c3.js",
     "/assets/roadmap.d31691a6.avif",
     "/assets/roadmap.9cbf0c34.webp",
     "/assets/token.45ee5767.png",
@@ -2822,10 +2828,12 @@
     "/assets/bkex.ee4489ac.png",
     "/assets/lbank.dcc2253e.png",
     "/assets/bitmart.1199d571.png",
-    "/assets/mexc.19ebee22.png"
+    "/assets/mexc.19ebee22.png",
+    "/assets/coinsbit.d9b6d863.png",
+    "/assets/cointiger.bb62d7d0.png"
   ],
   "src/assets/images/bbdogeswap.png": [
-    "/assets/RoadmapSection.4f9feed7.js",
+    "/assets/RoadmapSection.6b64b6c3.js",
     "/assets/roadmap.d31691a6.avif",
     "/assets/roadmap.9cbf0c34.webp",
     "/assets/token.45ee5767.png",
@@ -2837,10 +2845,12 @@
     "/assets/bkex.ee4489ac.png",
     "/assets/lbank.dcc2253e.png",
     "/assets/bitmart.1199d571.png",
-    "/assets/mexc.19ebee22.png"
+    "/assets/mexc.19ebee22.png",
+    "/assets/coinsbit.d9b6d863.png",
+    "/assets/cointiger.bb62d7d0.png"
   ],
   "src/assets/images/shido.png": [
-    "/assets/RoadmapSection.4f9feed7.js",
+    "/assets/RoadmapSection.6b64b6c3.js",
     "/assets/roadmap.d31691a6.avif",
     "/assets/roadmap.9cbf0c34.webp",
     "/assets/token.45ee5767.png",
@@ -2852,10 +2862,12 @@
     "/assets/bkex.ee4489ac.png",
     "/assets/lbank.dcc2253e.png",
     "/assets/bitmart.1199d571.png",
-    "/assets/mexc.19ebee22.png"
+    "/assets/mexc.19ebee22.png",
+    "/assets/coinsbit.d9b6d863.png",
+    "/assets/cointiger.bb62d7d0.png"
   ],
   "src/assets/images/bkex.png": [
-    "/assets/RoadmapSection.4f9feed7.js",
+    "/assets/RoadmapSection.6b64b6c3.js",
     "/assets/roadmap.d31691a6.avif",
     "/assets/roadmap.9cbf0c34.webp",
     "/assets/token.45ee5767.png",
@@ -2867,10 +2879,12 @@
     "/assets/bkex.ee4489ac.png",
     "/assets/lbank.dcc2253e.png",
     "/assets/bitmart.1199d571.png",
-    "/assets/mexc.19ebee22.png"
+    "/assets/mexc.19ebee22.png",
+    "/assets/coinsbit.d9b6d863.png",
+    "/assets/cointiger.bb62d7d0.png"
   ],
   "src/assets/images/azbit.png": [
-    "/assets/RoadmapSection.4f9feed7.js",
+    "/assets/RoadmapSection.6b64b6c3.js",
     "/assets/roadmap.d31691a6.avif",
     "/assets/roadmap.9cbf0c34.webp",
     "/assets/token.45ee5767.png",
@@ -2882,10 +2896,12 @@
     "/assets/bkex.ee4489ac.png",
     "/assets/lbank.dcc2253e.png",
     "/assets/bitmart.1199d571.png",
-    "/assets/mexc.19ebee22.png"
+    "/assets/mexc.19ebee22.png",
+    "/assets/coinsbit.d9b6d863.png",
+    "/assets/cointiger.bb62d7d0.png"
   ],
   "src/assets/images/lbank.png": [
-    "/assets/RoadmapSection.4f9feed7.js",
+    "/assets/RoadmapSection.6b64b6c3.js",
     "/assets/roadmap.d31691a6.avif",
     "/assets/roadmap.9cbf0c34.webp",
     "/assets/token.45ee5767.png",
@@ -2897,10 +2913,12 @@
     "/assets/bkex.ee4489ac.png",
     "/assets/lbank.dcc2253e.png",
     "/assets/bitmart.1199d571.png",
-    "/assets/mexc.19ebee22.png"
+    "/assets/mexc.19ebee22.png",
+    "/assets/coinsbit.d9b6d863.png",
+    "/assets/cointiger.bb62d7d0.png"
   ],
   "src/assets/images/bitmart.png": [
-    "/assets/RoadmapSection.4f9feed7.js",
+    "/assets/RoadmapSection.6b64b6c3.js",
     "/assets/roadmap.d31691a6.avif",
     "/assets/roadmap.9cbf0c34.webp",
     "/assets/token.45ee5767.png",
@@ -2912,10 +2930,12 @@
     "/assets/bkex.ee4489ac.png",
     "/assets/lbank.dcc2253e.png",
     "/assets/bitmart.1199d571.png",
-    "/assets/mexc.19ebee22.png"
+    "/assets/mexc.19ebee22.png",
+    "/assets/coinsbit.d9b6d863.png",
+    "/assets/cointiger.bb62d7d0.png"
   ],
   "src/assets/images/mexc.png": [
-    "/assets/RoadmapSection.4f9feed7.js",
+    "/assets/RoadmapSection.6b64b6c3.js",
     "/assets/roadmap.d31691a6.avif",
     "/assets/roadmap.9cbf0c34.webp",
     "/assets/token.45ee5767.png",
@@ -2927,10 +2947,46 @@
     "/assets/bkex.ee4489ac.png",
     "/assets/lbank.dcc2253e.png",
     "/assets/bitmart.1199d571.png",
-    "/assets/mexc.19ebee22.png"
+    "/assets/mexc.19ebee22.png",
+    "/assets/coinsbit.d9b6d863.png",
+    "/assets/cointiger.bb62d7d0.png"
+  ],
+  "src/assets/images/coinsbit.png": [
+    "/assets/RoadmapSection.6b64b6c3.js",
+    "/assets/roadmap.d31691a6.avif",
+    "/assets/roadmap.9cbf0c34.webp",
+    "/assets/token.45ee5767.png",
+    "/assets/token.cd56711e.png",
+    "/assets/pinksale.c82cb5d9.png",
+    "/assets/dexview.6ac3ba7f.png",
+    "/assets/bbdogeswap.f93f32ee.png",
+    "/assets/shido.6f180c51.png",
+    "/assets/bkex.ee4489ac.png",
+    "/assets/lbank.dcc2253e.png",
+    "/assets/bitmart.1199d571.png",
+    "/assets/mexc.19ebee22.png",
+    "/assets/coinsbit.d9b6d863.png",
+    "/assets/cointiger.bb62d7d0.png"
+  ],
+  "src/assets/images/cointiger.png": [
+    "/assets/RoadmapSection.6b64b6c3.js",
+    "/assets/roadmap.d31691a6.avif",
+    "/assets/roadmap.9cbf0c34.webp",
+    "/assets/token.45ee5767.png",
+    "/assets/token.cd56711e.png",
+    "/assets/pinksale.c82cb5d9.png",
+    "/assets/dexview.6ac3ba7f.png",
+    "/assets/bbdogeswap.f93f32ee.png",
+    "/assets/shido.6f180c51.png",
+    "/assets/bkex.ee4489ac.png",
+    "/assets/lbank.dcc2253e.png",
+    "/assets/bitmart.1199d571.png",
+    "/assets/mexc.19ebee22.png",
+    "/assets/coinsbit.d9b6d863.png",
+    "/assets/cointiger.bb62d7d0.png"
   ],
   "src/sections/RoadmapSection.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/RoadmapSection.4f9feed7.js",
+    "/assets/RoadmapSection.6b64b6c3.js",
     "/assets/roadmap.d31691a6.avif",
     "/assets/roadmap.9cbf0c34.webp",
     "/assets/token.45ee5767.png",
@@ -2942,10 +2998,12 @@
     "/assets/bkex.ee4489ac.png",
     "/assets/lbank.dcc2253e.png",
     "/assets/bitmart.1199d571.png",
-    "/assets/mexc.19ebee22.png"
+    "/assets/mexc.19ebee22.png",
+    "/assets/coinsbit.d9b6d863.png",
+    "/assets/cointiger.bb62d7d0.png"
   ],
   "src/sections/RoadmapSection.vue": [
-    "/assets/RoadmapSection.4f9feed7.js",
+    "/assets/RoadmapSection.6b64b6c3.js",
     "/assets/roadmap.d31691a6.avif",
     "/assets/roadmap.9cbf0c34.webp",
     "/assets/token.45ee5767.png",
@@ -2957,6 +3015,8 @@
     "/assets/bkex.ee4489ac.png",
     "/assets/lbank.dcc2253e.png",
     "/assets/bitmart.1199d571.png",
-    "/assets/mexc.19ebee22.png"
+    "/assets/mexc.19ebee22.png",
+    "/assets/coinsbit.d9b6d863.png",
+    "/assets/cointiger.bb62d7d0.png"
   ]
 }
